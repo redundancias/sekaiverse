@@ -12,9 +12,9 @@ Se você não pode ou não quer instalar pela Play Store, os APKs assinados ofic
 
 | App | Descrição | Versão atual | Android mínimo | Download |
 |---|---|:---:|:---:|:---:|
-| 🎭 **Doramaya** | Streaming de doramas (novelas asiáticas) | `1.14` | 8.0+ | [⬇️ Baixar APK](https://github.com/redundancias/sekaiverse/releases/download/doramaya-v1.14/Doramaya-v1.14.apk) |
-| 📖 **Yomu Manga** | Leitor de mangás com tradução automática | `1.21` | 8.0+ | [⬇️ Baixar APK](https://github.com/redundancias/sekaiverse/releases/download/yomumanga-v1.21/YomuManga-v1.21.apk) |
-| ⛩️ **SekaiAnimes** | Streaming de animes | `4.31` | 6.0+ | [⬇️ Baixar APK](https://github.com/redundancias/sekaiverse/releases/download/sekaianimes-v4.31/SekaiAnimes-v4.31.apk) |
+| 🎭 **Doramaya** | Streaming de doramas (novelas asiáticas) | `1.17` | 8.0+ | [⬇️ Baixar APK](https://github.com/redundancias/sekaiverse/releases/download/doramaya-v1.17/Doramaya-v1.17.apk) |
+| 📖 **Yomu Manga** | Leitor de mangás com tradução automática | `1.24` | 8.0+ | [⬇️ Baixar APK](https://github.com/redundancias/sekaiverse/releases/download/yomumanga-v1.24/YomuManga-v1.24.apk) |
+| ⛩️ **SekaiAnimes** | Streaming de animes | `4.35` | 6.0+ | [⬇️ Baixar APK](https://github.com/redundancias/sekaiverse/releases/download/sekaianimes-v4.35/SekaiAnimes-v4.35.apk) |
 
 Todas as versões publicadas (inclusive antigas) ficam listadas em **[Releases](https://github.com/redundancias/sekaiverse/releases)**.
 
