@@ -12,11 +12,19 @@ Se você não pode ou não quer instalar pela Play Store, os APKs assinados ofic
 
 | App | Descrição | Versão atual | Android mínimo | Download |
 |---|---|:---:|:---:|:---:|
-| 🎭 **Doramaya** | Streaming de doramas (novelas asiáticas) | `1.17` | 8.0+ | [⬇️ Baixar APK](https://github.com/redundancias/sekaiverse/releases/download/doramaya-v1.17/Doramaya-v1.17.apk) |
-| 📖 **Yomu Manga** | Leitor de mangás com tradução automática | `1.24` | 8.0+ | [⬇️ Baixar APK](https://github.com/redundancias/sekaiverse/releases/download/yomumanga-v1.24/YomuManga-v1.24.apk) |
-| ⛩️ **SekaiAnimes** | Streaming de animes | `4.35` | 6.0+ | [⬇️ Baixar APK](https://github.com/redundancias/sekaiverse/releases/download/sekaianimes-v4.35/SekaiAnimes-v4.35.apk) |
+| 🎭 **Doramaya** | Streaming de doramas (novelas asiáticas) | `1.18` | 8.0+ | [⬇️ Baixar APK](https://github.com/redundancias/sekaiverse/releases/download/doramaya-v1.18/Doramaya-v1.18.apk) |
+| 📖 **Yomu Manga** | Leitor de mangás com tradução automática | `1.25` | 8.0+ | [⬇️ Baixar APK](https://github.com/redundancias/sekaiverse/releases/download/yomumanga-v1.25/YomuManga-v1.25.apk) |
+| ⛩️ **SekaiAnimes** | Streaming de animes | `4.38` | 6.0+ | [⬇️ Baixar APK](https://github.com/redundancias/sekaiverse/releases/download/sekaianimes-v4.38/SekaiAnimes-v4.38.apk) |
 
 Todas as versões publicadas (inclusive antigas) ficam listadas em **[Releases](https://github.com/redundancias/sekaiverse/releases)**.
+
+### 🆕 Novidades recentes
+
+- **Doramaya 1.18** — backup em arquivo e sincronização na nuvem (Premium), estatísticas e conquistas, Minha jornada e Perfil redesenhados. [Ver release](https://github.com/redundancias/sekaiverse/releases/tag/doramaya-v1.18)
+- **Yomu Manga 1.25** — nuvem para Premium, estatísticas e conquistas, telas de Perfil/Configurações/Downloads redesenhadas e sinopses corrigidas. [Ver release](https://github.com/redundancias/sekaiverse/releases/tag/yomumanga-v1.25)
+- **SekaiAnimes 4.38** — organizador inteligente de episódios, aba Perfil com conquistas, novo menu, Goyabu funcionando de novo e painel admin com gráficos. [Ver release](https://github.com/redundancias/sekaiverse/releases/tag/sekaianimes-v4.38)
+
+Nos três apps, dá pra pedir a exclusão da conta direto pelo Perfil (Telegram ou e-mail da equipe).
 
 ---
 
